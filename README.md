@@ -1,8 +1,8 @@
 # SignalRGB Thermaltake Riing Plugin for SignalRGB
 
-This plugin fixes a weird issue that duplicating pixels, happened with Thermaltake controllers comes with: Riing Pure 12/14, Riing Plus 12/14/20, Riing Duo 12/14 & Riing Trio 12/14/20.
+This plugin fixes a weird issue that duplicating pixels and pixels after Led19 will not lit up, happened with Thermaltake controllers comes with: Riing Pure 12/14, Riing Plus 12/14/20, Riing Duo 12/14 & Riing Trio 12/14/20.
 
-
+![tree-topper](https://github.com/user-attachments/assets/331d7503-baa1-47c3-a50f-8ef29956ad37)
 
 ![Github All Releases](https://img.shields.io/github/downloads/qiangqiang101/Thermaltake-Riing-Plugin-for-SignalRGB/total.svg)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/qiangqiang101/Thermaltake-Riing-Plugin-for-SignalRGB)
