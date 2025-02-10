@@ -4,6 +4,13 @@ This plugin fixes a weird issue that duplicating pixels and pixels after Led19 w
 
 ![tree-topper](https://github.com/user-attachments/assets/331d7503-baa1-47c3-a50f-8ef29956ad37)
 
+^ Picture of Thermaltake controller Led painting with pixels after Led19 does not light up in xmas tree topper
+
+
+https://github.com/user-attachments/assets/38efb66f-9016-49a7-b604-b3e6a0e17b84
+
+^ Video of Thermaltake controller plugin fixed
+
 ![Github All Releases](https://img.shields.io/github/downloads/qiangqiang101/Thermaltake-Riing-Plugin-for-SignalRGB/total.svg)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/qiangqiang101/Thermaltake-Riing-Plugin-for-SignalRGB)
 ![GitHub](https://img.shields.io/github/license/qiangqiang101/Thermaltake-Riing-Plugin-for-SignalRGB)
