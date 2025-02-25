@@ -25,6 +25,9 @@ https://github.com/user-attachments/assets/38efb66f-9016-49a7-b604-b3e6a0e17b84
 # Install
 [![Click here to add this repo to SignalRGB](https://raw.githubusercontent.com/SRGBmods/QMK-Images/main/images/add-to-signalrgb.png)](https://srgbmods.net/s?p=addon/install?url=https://github.com/qiangqiang101/Thermaltake-Riing-Plugin-for-SignalRGB)
 
+![QQ_1740449930170](https://github.com/user-attachments/assets/d8cb8f40-701c-4d88-9215-3ab661a32001)
+
+25/02/2025: SignalRGB merged my MR, you can now enroll beta to get this fixed plugin
+
 # Special Thanks
 - [SignalRGB](https://signalrgb.com/download/)
-  
